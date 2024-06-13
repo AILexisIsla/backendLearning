@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "El secreto de sus ojos",
+    "director": "Juan José Campanella",
+    "year": 2009,
+    "image": "https://i.postimg.cc/V5HTFq88/El-secreto.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Relatos salvajes",
+    "director": "Damián Szifron",
+    "year": 2014,
+    "image": "https://i.postimg.cc/kRDHm4Wz/Relatos-salvajes.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Matrix",
+    "director": "The Wachowskis",
+    "year": 1999,
+    "image": "https://i.postimg.cc/QH9zYF8W/matrix.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "year": 2014,
+    "image": "https://i.postimg.cc/qh1FSn62/interestellar.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Star Wars: Episodio IV - Una Nueva Esperanza",
+    "director": "George Lucas",
+    "year": 1977,
+    "image": "https://i.postimg.cc/8sC9Wyx4/Star-Wars-La-Guerra-de-las-Galaxias-poster.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Star Wars: Episodio V - Una Nueva Esperanza",
+    "director": "George Lucas",
+    "year": 1980,
+    "image": "https://i.postimg.cc/8sC9Wyx4/Star-Wars-La-Guerra-de-las-Galaxias-poster.jpg"
+  }
+]
